@@ -1,6 +1,9 @@
 body {
   font-family: "Roboto", sans-serif;
 }
+.logostyle {
+  text-decoration: none;
+}
 .logo {
   font-family: "Raleway";
   font-style: normal;
@@ -9,7 +12,6 @@ body {
   line-height: 31px;
   letter-spacing: 0.03em;
   color: #2196f3;
-  text-decoration: none;
 }
 .studio {
   font-family: "Raleway";
@@ -19,17 +21,16 @@ body {
   line-height: 31px;
   letter-spacing: 0.03em;
   color: #000000;
-  text-decoration: none;
 }
-.menu1 {
+.nav {
   font-size: 14px;
   font-family: "Roboto";
   text-decoration: none;
+  color: #000000;
 }
-.menunav {
+.sitenav {
   colour: #212121;
   font-size: 14px;
-  text-decoration: none;
   font-weight: 500;
 }
 .contact-links {
