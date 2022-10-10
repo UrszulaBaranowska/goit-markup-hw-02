@@ -15,10 +15,22 @@ body {
 }
 .mainpage1 {
   background-color: #2f303a;
+  color: #ffffff;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 1.36;
+  letter-spacing: 0.06em;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 .button1 {
   background-color: #2196f3;
   color: #ffffff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.88;
 }
 .studio {
   font-family: "Raleway";
@@ -33,7 +45,7 @@ body {
   font-size: 14px;
   font-family: "Roboto";
   text-decoration: none;
-  color: #000000;
+  color: #212121;
 }
 .sitenav {
   colour: #212121;
