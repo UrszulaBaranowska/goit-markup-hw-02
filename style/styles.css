@@ -31,10 +31,8 @@ body {
   color: #212121;
 }
 .nav:hover,
-.nav:focus {
-  color: #2196f3;
-}
-.nav.link:active {
+.nav:focus,
+.nav:active {
   color: #2196f3;
 }
 .sitenav {
@@ -62,6 +60,7 @@ body {
   text-transform: uppercase;
 }
 .button1 {
+  font-family: "Roboto";
   background-color: #2196f3;
   color: #ffffff;
   font-style: normal;
@@ -121,8 +120,8 @@ footer {
   color: rgba(255, 255, 255, 0.6);
   font-style: normal;
 }
-.button3 {
-  font-family: Roboto;
+.button {
+  font-family: inherit;
   color: rgba(33, 33, 33, 1);
   font-size: 16px;
   font-weight: 500;
@@ -131,8 +130,8 @@ footer {
   text-align: center;
   cursor: pointer;
 }
-.button3:hover,
-.button3:focus {
+.button:hover,
+.button:focus {
   color: #ffffff;
   background-color: #2196f3;
 }
