@@ -13,6 +13,13 @@ body {
   letter-spacing: 0.03em;
   color: #2196f3;
 }
+.mainpage1 {
+  background-color: #2f303a;
+}
+.button1 {
+  background-color: #2196f3;
+  color: #ffffff;
+}
 .studio {
   font-family: "Raleway";
   font-style: normal;
