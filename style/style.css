@@ -1,5 +1,4 @@
 body {
-  font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
 }
 .blue {
@@ -17,4 +16,9 @@ body {
 }
 .contact-links {
   text-decoration: none;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-style: normal;
+  font-weight: 700;
 }
