@@ -9,16 +9,16 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03em;
-  color: #2196f3;
+  color: rgba(33, 150, 243, 1);
 }
 .studio {
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19px;
   letter-spacing: 0.03em;
   color: #000000;
 }
@@ -28,13 +28,20 @@ body {
   text-decoration: none;
   color: #212121;
 }
+.nav:hover {
+  color: #2196f3;
+}
 .sitenav {
-  colour: #212121;
+  color: #212121;
   font-size: 14px;
   font-weight: 500;
 }
 .contact-links {
   text-decoration: none;
+  color: #757575;
+}
+.contact-links:hover {
+  color: #2196f3;
 }
 .mainpage1 {
   background-color: #2f303a;
@@ -59,18 +66,50 @@ body {
   color: #212121;
   font-style: bold;
   font-size: 14px;
+  line-height: 1.17;
 }
 .lorem2 {
   color: #757575;
   font-size: 14px;
+  line-height: 1.71;
 }
 .whatwedo {
   color: #212121;
   font-size: 36px;
   font-style: bold;
+  line-height: 1.17;
 }
 .workername {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
   color: #212121;
-  font-size: 16 px;
-  font-style: medium;
+}
+.position {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #757575;
+}
+footer {
+  background-color: #2f303a;
+}
+.studiof {
+  color: rgba(255, 255, 255, 1);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+}
+.address1 {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
+.address2 {
+  color: rgba(255, 255, 255, 0.6);
+  font-style: normal;
 }
