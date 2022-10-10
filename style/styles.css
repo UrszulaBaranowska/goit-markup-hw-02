@@ -1,5 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
+  font-family: "Raleway", sans-serif;
+  color: #212121;
 }
 .logostyle {
   text-decoration: none;
@@ -66,6 +68,7 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
+  cursor: pointer;
 }
 .lorem1 {
   color: #212121;
@@ -118,7 +121,7 @@ footer {
   color: rgba(255, 255, 255, 0.6);
   font-style: normal;
 }
-.button2 {
+.button3 {
   font-family: Roboto;
   color: rgba(33, 33, 33, 1);
   font-size: 16px;
@@ -126,9 +129,10 @@ footer {
   line-height: 1.62;
   letter-spacing: 0.03em;
   text-align: center;
+  cursor: pointer;
 }
-.button2:hover,
-.button2:focus {
+.button3:hover,
+.button3:focus {
   color: #ffffff;
   background-color: #2196f3;
 }
