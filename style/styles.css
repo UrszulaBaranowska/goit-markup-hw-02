@@ -31,6 +31,12 @@ body {
 .nav:hover {
   color: #2196f3;
 }
+.nav:focus {
+  color: #2196f3;
+}
+.nav.link:active {
+  color: #2196f3;
+}
 .sitenav {
   color: #212121;
   font-size: 14px;
@@ -41,6 +47,9 @@ body {
   color: #757575;
 }
 .contact-links:hover {
+  color: #2196f3;
+}
+.contact-links:focus {
   color: #2196f3;
 }
 .mainpage1 {
@@ -113,6 +122,20 @@ footer {
   color: rgba(255, 255, 255, 0.6);
   font-style: normal;
 }
+.button2 {
+  font-family: Roboto;
+  color: rgba(33, 33, 33, 1);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
+  text-align: center;
+}
 .button2:hover {
-  color: #2196f3;
+  color: #ffffff;
+  background-color: #2196f3;
+}
+.button2:focus {
+  color: #ffffff;
+  background-color: #2196f3;
 }
