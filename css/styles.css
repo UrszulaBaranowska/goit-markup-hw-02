@@ -10,7 +10,7 @@
 body {
   font-family: "Roboto", sans-serif;
   font-family: "Raleway", sans-serif;
-  color: var(--main-black);
+  color: #212121;
 }
 .logostyle {
   text-decoration: none;
@@ -69,7 +69,6 @@ body {
   text-transform: uppercase;
 }
 .button1 {
-  font-family: "Roboto";
   background-color: var(--main-blue);
   color: var(--main-white);
   font-style: normal;
