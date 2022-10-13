@@ -145,6 +145,7 @@ footer {
 }
 .portfolio {
   color: var(--second-black);
+  font-family: "Roboto";
   font-size: 18px;
   font-weight: 700;
   line-height: 2;
