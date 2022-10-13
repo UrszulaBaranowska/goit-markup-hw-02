@@ -35,6 +35,7 @@ body {
 }
 .nav {
   font-size: 14px;
+  font-family: "Roboto";
   text-decoration: none;
   color: var(--main-black);
 }
